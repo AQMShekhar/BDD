@@ -1,0 +1,592 @@
+2019-04-03 15:08:10,879 INFO  [Log] Lunching the Url 
+2019-04-03 15:08:10,905 INFO  [Log] Verify the Title 
+2019-04-03 15:08:13,884 WARN  [Log] User is on home page 
+2019-04-03 15:08:17,477 INFO  [Log] Lunching the Url 
+2019-04-03 15:08:17,489 INFO  [Log] Verify the Title 
+2019-04-03 15:08:22,321 WARN  [Log] User is on home page 
+2019-04-03 15:08:28,561 INFO  [Log] Lunching the Url 
+2019-04-03 15:21:06,283 INFO  [Log] Lunching the Url 
+2019-04-03 15:21:06,309 INFO  [Log] Verify the Title 
+2019-04-03 15:21:20,174 WARN  [Log] User is on home page 
+2019-04-03 15:21:23,808 INFO  [Log] Lunching the Url 
+2019-04-03 15:21:23,825 INFO  [Log] Verify the Title 
+2019-04-03 15:21:30,086 WARN  [Log] User is on home page 
+2019-04-03 15:21:35,481 INFO  [Log] Lunching the Url 
+2019-04-03 15:30:12,875 INFO  [Log] Lunching the Url 
+2019-04-03 15:30:12,900 INFO  [Log] Verify the Title 
+2019-04-03 15:30:17,486 WARN  [Log] User is on home page 
+2019-04-03 15:30:21,333 INFO  [Log] Lunching the Url 
+2019-04-03 15:30:21,342 INFO  [Log] Verify the Title 
+2019-04-03 15:30:27,074 WARN  [Log] User is on home page 
+2019-04-03 15:32:27,317 INFO  [Log] Lunching the Url 
+2019-04-03 15:32:27,349 INFO  [Log] Verify the Title 
+2019-04-03 15:32:31,878 WARN  [Log] User is on home page 
+2019-04-03 15:32:36,148 INFO  [Log] Lunching the Url 
+2019-04-03 15:32:36,164 INFO  [Log] Verify the Title 
+2019-04-03 15:32:43,060 WARN  [Log] User is on home page 
+2019-04-03 15:34:12,532 INFO  [Log] Lunching the Url 
+2019-04-03 15:34:12,555 INFO  [Log] Verify the Title 
+2019-04-03 15:34:16,911 WARN  [Log] User is on home page 
+2019-04-03 15:34:26,353 INFO  [Log] Lunching the Url 
+2019-04-03 15:34:26,369 INFO  [Log] Verify the Title 
+2019-04-03 15:34:30,151 WARN  [Log] User is on home page 
+2019-04-03 15:48:35,377 INFO  [Log] Lunching the Url 
+2019-04-03 15:48:35,400 INFO  [Log] Verify the Title 
+2019-04-03 15:48:38,748 WARN  [Log] User is on home page 
+2019-04-03 15:48:43,370 INFO  [Log] Lunching the Url 
+2019-04-03 15:48:43,381 INFO  [Log] Verify the Title 
+2019-04-03 15:48:48,084 WARN  [Log] User is on home page 
+2019-04-03 15:49:11,726 INFO  [Log] Lunching the Url 
+2019-04-03 15:49:11,752 INFO  [Log] Verify the Title 
+2019-04-03 15:49:17,973 WARN  [Log] User is on home page 
+2019-04-03 15:49:23,658 INFO  [Log] Lunching the Url 
+2019-04-03 15:49:23,677 INFO  [Log] Verify the Title 
+2019-04-03 15:49:28,159 WARN  [Log] User is on home page 
+2019-04-03 15:52:37,875 INFO  [Log] Lunching the Url 
+2019-04-03 15:52:57,703 INFO  [Log] Verify the Title 
+2019-04-03 15:53:07,571 WARN  [Log] User is on home page 
+2019-04-03 15:54:17,282 INFO  [Log] Lunching the Url 
+2019-04-03 15:54:26,163 INFO  [Log] Verify the Title 
+2019-04-03 15:54:32,497 WARN  [Log] User is on home page 
+2019-04-03 16:04:16,241 INFO  [Log] Lunching the Url 
+2019-04-03 16:04:16,265 INFO  [Log] Verify the Title 
+2019-04-03 16:04:20,888 WARN  [Log] User is on home page 
+2019-04-03 16:04:24,525 INFO  [Log] Lunching the Url 
+2019-04-03 16:04:24,536 INFO  [Log] Verify the Title 
+2019-04-03 16:04:28,836 WARN  [Log] User is on home page 
+2019-04-03 16:05:04,541 INFO  [Log] Lunching the Url 
+2019-04-03 16:05:04,563 INFO  [Log] Verify the Title 
+2019-04-03 16:05:10,236 WARN  [Log] User is on home page 
+2019-04-03 16:05:14,168 INFO  [Log] Lunching the Url 
+2019-04-03 16:05:14,178 INFO  [Log] Verify the Title 
+2019-04-03 16:05:18,480 WARN  [Log] User is on home page 
+2019-04-03 16:12:15,313 INFO  [Log] Lunching the Url 
+2019-04-03 16:12:15,346 INFO  [Log] Verify the Title 
+2019-04-03 16:12:22,557 WARN  [Log] User is on home page 
+2019-04-03 16:12:26,400 INFO  [Log] Lunching the Url 
+2019-04-03 16:12:26,411 INFO  [Log] Verify the Title 
+2019-04-03 16:12:30,046 WARN  [Log] User is on home page 
+2019-04-03 16:26:31,791 INFO  [Log] Lunching the Url 
+2019-04-03 16:26:31,831 INFO  [Log] Verify the Title 
+2019-04-03 16:26:35,355 WARN  [Log] User is on home page 
+2019-04-03 16:26:47,852 INFO  [Log] Lunching the Url 
+2019-04-03 16:26:47,860 INFO  [Log] Verify the Title 
+2019-04-03 16:27:00,965 WARN  [Log] User is on home page 
+2019-04-03 16:35:18,811 INFO  [Log] Lunching the Url 
+2019-04-03 16:35:18,834 INFO  [Log] Verify the Title 
+2019-04-03 16:35:25,851 WARN  [Log] User is on home page 
+2019-04-03 16:35:31,525 INFO  [Log] Lunching the Url 
+2019-04-03 16:35:31,538 INFO  [Log] Verify the Title 
+2019-04-03 16:35:36,952 WARN  [Log] User is on home page 
+2019-04-03 16:38:08,851 INFO  [Log] Lunching the Url 
+2019-04-03 16:41:17,784 INFO  [Log] Lunching the Url 
+2019-04-03 16:42:24,550 INFO  [Log] Lunching the Url 
+2019-04-03 16:42:24,573 INFO  [Log] Verify the Title 
+2019-04-03 16:42:30,961 WARN  [Log] User is on home page 
+2019-04-03 16:42:34,542 INFO  [Log] Lunching the Url 
+2019-04-03 16:42:34,551 INFO  [Log] Verify the Title 
+2019-04-03 16:42:40,806 WARN  [Log] User is on home page 
+2019-04-04 11:14:19,632 INFO  [Log] Lunching the Url 
+2019-04-04 11:14:19,660 INFO  [Log] Verify the Title 
+2019-04-04 11:14:25,028 WARN  [Log] User is on home page 
+2019-04-04 11:14:27,896 INFO  [Log] Lunching the Url 
+2019-04-04 11:14:27,906 INFO  [Log] Verify the Title 
+2019-04-04 11:14:29,760 WARN  [Log] User is on home page 
+2019-04-04 11:35:41,626 INFO  [Log] Lunching the Url 
+2019-04-04 11:35:41,651 INFO  [Log] Verify the Title 
+2019-04-04 11:35:44,538 WARN  [Log] User is on home page 
+2019-04-04 11:35:44,669 INFO  [Log] Lunching the Url 
+2019-04-04 11:35:44,676 INFO  [Log] Verify the Title 
+2019-04-04 11:35:45,082 WARN  [Log] User is on home page 
+2019-04-04 11:35:49,254 INFO  [Log] Lunching the Url 
+2019-04-04 11:35:58,072 INFO  [Log] Lunching the Url 
+2019-04-04 11:51:34,311 INFO  [Log] Lunching the Url 
+2019-04-04 11:51:34,336 INFO  [Log] Verify the Title 
+2019-04-04 11:51:38,782 WARN  [Log] User is on home page 
+2019-04-04 11:51:38,914 INFO  [Log] Lunching the Url 
+2019-04-04 11:51:38,920 INFO  [Log] Verify the Title 
+2019-04-04 11:51:39,322 WARN  [Log] User is on home page 
+2019-04-04 11:51:43,421 INFO  [Log] Lunching the Url 
+2019-04-04 11:51:51,648 INFO  [Log] Lunching the Url 
+2019-04-05 11:53:31,019 INFO  [Log] Lunching the Url 
+2019-04-05 11:53:31,044 INFO  [Log] Verify the Title 
+2019-04-05 11:53:34,995 WARN  [Log] User is on home page 
+2019-04-05 11:53:35,129 INFO  [Log] Lunching the Url 
+2019-04-05 11:53:35,135 INFO  [Log] Verify the Title 
+2019-04-05 11:53:35,521 WARN  [Log] User is on home page 
+2019-04-05 11:53:40,779 INFO  [Log] Lunching the Url 
+2019-04-05 11:53:49,408 INFO  [Log] Lunching the Url 
+2019-04-06 11:00:51,036 INFO  [Log] Lunching the Url 
+2019-04-06 11:00:51,085 INFO  [Log] Verify the Title 
+2019-04-06 11:00:54,014 WARN  [Log] User is on home page 
+2019-04-06 11:00:56,823 INFO  [Log] Lunching the Url 
+2019-04-06 11:00:56,835 INFO  [Log] Verify the Title 
+2019-04-06 11:00:57,253 WARN  [Log] User is on home page 
+2019-04-06 11:09:41,412 INFO  [Log] Lunching the Url 
+2019-04-06 11:09:41,434 INFO  [Log] Verify the Title 
+2019-04-06 11:09:44,186 WARN  [Log] User is on home page 
+2019-04-06 11:09:44,379 INFO  [Log] Lunching the Url 
+2019-04-06 11:09:44,385 INFO  [Log] Verify the Title 
+2019-04-06 11:09:44,750 WARN  [Log] User is on home page 
+2019-04-06 11:09:48,774 INFO  [Log] Lunching the Url 
+2019-04-06 11:09:55,485 INFO  [Log] Lunching the Url 
+2019-04-06 11:17:08,440 INFO  [Log] Lunching the Url 
+2019-04-06 11:17:08,467 INFO  [Log] Verify the Title 
+2019-04-06 11:17:12,287 WARN  [Log] User is on home page 
+2019-04-06 11:17:12,409 INFO  [Log] Lunching the Url 
+2019-04-06 11:17:12,423 INFO  [Log] Verify the Title 
+2019-04-06 11:17:12,745 WARN  [Log] User is on home page 
+2019-04-06 11:17:16,806 INFO  [Log] Lunching the Url 
+2019-04-06 11:17:24,705 INFO  [Log] Lunching the Url 
+2019-04-06 12:04:32,216 INFO  [Log] Lunching the Url 
+2019-04-06 12:04:32,238 INFO  [Log] Verify the Title 
+2019-04-06 12:04:35,572 WARN  [Log] User is on home page 
+2019-04-06 12:04:35,693 INFO  [Log] Lunching the Url 
+2019-04-06 12:04:35,699 INFO  [Log] Verify the Title 
+2019-04-06 12:04:36,113 WARN  [Log] User is on home page 
+2019-04-06 12:04:40,077 INFO  [Log] Lunching the Url 
+2019-04-06 12:04:47,666 INFO  [Log] Lunching the Url 
+2019-04-06 12:19:38,042 INFO  [Log] Lunching the Url 
+2019-04-06 12:19:38,067 INFO  [Log] Verify the Title 
+2019-04-06 12:19:41,307 WARN  [Log] User is on home page 
+2019-04-06 12:19:41,538 INFO  [Log] Lunching the Url 
+2019-04-06 12:19:41,545 INFO  [Log] Verify the Title 
+2019-04-06 12:19:44,658 WARN  [Log] User is on home page 
+2019-04-06 12:19:48,688 INFO  [Log] Lunching the Url 
+2019-04-06 12:19:57,407 INFO  [Log] Lunching the Url 
+2019-04-06 12:21:56,718 INFO  [Log] Lunching the Url 
+2019-04-06 12:21:56,742 INFO  [Log] Verify the Title 
+2019-04-06 12:22:01,484 WARN  [Log] User is on home page 
+2019-04-06 12:22:01,610 INFO  [Log] Lunching the Url 
+2019-04-06 12:22:01,618 INFO  [Log] Verify the Title 
+2019-04-06 12:22:02,023 WARN  [Log] User is on home page 
+2019-04-06 12:22:09,639 INFO  [Log] Lunching the Url 
+2019-04-06 12:22:24,872 INFO  [Log] Lunching the Url 
+2019-04-06 12:27:51,389 INFO  [Log] Lunching the Url 
+2019-04-06 12:27:51,420 INFO  [Log] Verify the Title 
+2019-04-06 12:27:55,505 WARN  [Log] User is on home page 
+2019-04-06 12:27:58,509 INFO  [Log] Lunching the Url 
+2019-04-06 12:27:58,522 INFO  [Log] Verify the Title 
+2019-04-06 12:27:58,874 WARN  [Log] User is on home page 
+2019-04-06 12:28:03,147 INFO  [Log] Lunching the Url 
+2019-04-06 12:28:14,643 INFO  [Log] Lunching the Url 
+2019-04-06 12:31:48,349 INFO  [Log] Lunching the Url 
+2019-04-06 12:31:48,375 INFO  [Log] Verify the Title 
+2019-04-06 12:31:53,149 WARN  [Log] User is on home page 
+2019-04-06 12:31:59,969 INFO  [Log] Lunching the Url 
+2019-04-06 12:31:59,977 INFO  [Log] Verify the Title 
+2019-04-06 12:32:00,400 WARN  [Log] User is on home page 
+2019-04-06 12:32:05,132 INFO  [Log] Lunching the Url 
+2019-04-06 12:32:13,636 INFO  [Log] Lunching the Url 
+2019-04-06 12:43:46,153 INFO  [Log] Lunching the Url 
+2019-04-06 12:43:46,176 INFO  [Log] Verify the Title 
+2019-04-06 12:43:50,981 WARN  [Log] User is on home page 
+2019-04-06 12:43:52,533 INFO  [Log] Lunching the Url 
+2019-04-06 12:43:52,543 INFO  [Log] Verify the Title 
+2019-04-06 12:43:52,897 WARN  [Log] User is on home page 
+2019-04-06 12:46:44,429 INFO  [Log] Lunching the Url 
+2019-04-06 12:46:44,458 INFO  [Log] Verify the Title 
+2019-04-06 12:46:47,220 WARN  [Log] User is on home page 
+2019-04-06 12:46:47,322 INFO  [Log] Lunching the Url 
+2019-04-06 12:46:47,333 INFO  [Log] Verify the Title 
+2019-04-06 12:46:47,693 WARN  [Log] User is on home page 
+2019-04-06 12:46:53,066 INFO  [Log] Lunching the Url 
+2019-04-06 12:47:04,058 INFO  [Log] Lunching the Url 
+2019-04-06 13:01:55,145 INFO  [Log] Lunching the Url 
+2019-04-06 13:01:55,169 INFO  [Log] Verify the Title 
+2019-04-06 13:01:57,912 WARN  [Log] User is on home page 
+2019-04-06 13:01:58,026 INFO  [Log] Lunching the Url 
+2019-04-06 13:01:58,036 INFO  [Log] Verify the Title 
+2019-04-06 13:01:58,387 WARN  [Log] User is on home page 
+2019-04-06 13:02:02,420 INFO  [Log] Lunching the Url 
+2019-04-06 13:02:10,873 INFO  [Log] Lunching the Url 
+2019-04-06 14:00:39,701 INFO  [Log] Lunching the Url 
+2019-04-06 14:00:39,721 INFO  [Log] Verify the Title 
+2019-04-06 14:00:45,008 WARN  [Log] User is on home page 
+2019-04-06 14:00:48,471 INFO  [Log] Lunching the Url 
+2019-04-06 14:00:48,481 INFO  [Log] Verify the Title 
+2019-04-06 14:00:48,877 WARN  [Log] User is on home page 
+2019-04-06 14:00:53,140 INFO  [Log] Lunching the Url 
+2019-04-06 14:01:01,887 INFO  [Log] Lunching the Url 
+2019-04-06 14:05:39,716 INFO  [Log] Lunching the Url 
+2019-04-06 14:05:39,745 INFO  [Log] Verify the Title 
+2019-04-06 14:05:44,337 WARN  [Log] User is on home page 
+2019-04-06 14:05:44,449 INFO  [Log] Lunching the Url 
+2019-04-06 14:05:44,459 INFO  [Log] Verify the Title 
+2019-04-06 14:05:44,824 WARN  [Log] User is on home page 
+2019-04-06 14:05:49,486 INFO  [Log] Lunching the Url 
+2019-04-06 14:05:56,535 INFO  [Log] Lunching the Url 
+2019-04-08 11:35:04,932 INFO  [Log] Lunching the Url 
+2019-04-08 11:35:04,958 INFO  [Log] Verify the Title 
+2019-04-08 11:35:08,763 WARN  [Log] User is on home page 
+2019-04-08 11:35:08,965 INFO  [Log] Lunching the Url 
+2019-04-08 11:35:08,972 INFO  [Log] Verify the Title 
+2019-04-08 11:35:09,325 WARN  [Log] User is on home page 
+2019-04-08 11:35:14,341 INFO  [Log] Lunching the Url 
+2019-04-08 11:35:28,784 INFO  [Log] Lunching the Url 
+2019-04-08 11:52:54,181 INFO  [Log] Lunching the Url 
+2019-04-08 11:52:54,206 INFO  [Log] Verify the Title 
+2019-04-08 11:52:57,740 WARN  [Log] User is on home page 
+2019-04-08 11:52:57,924 INFO  [Log] Lunching the Url 
+2019-04-08 11:52:57,935 INFO  [Log] Verify the Title 
+2019-04-08 11:52:58,398 WARN  [Log] User is on home page 
+2019-04-08 11:53:02,919 INFO  [Log] Lunching the Url 
+2019-04-08 11:53:14,250 INFO  [Log] Lunching the Url 
+2019-04-08 11:58:44,407 INFO  [Log] Lunching the Url 
+2019-04-08 11:58:44,446 INFO  [Log] Verify the Title 
+2019-04-08 11:58:47,447 WARN  [Log] User is on home page 
+2019-04-08 11:58:47,559 INFO  [Log] Lunching the Url 
+2019-04-08 11:58:47,565 INFO  [Log] Verify the Title 
+2019-04-08 11:58:47,975 WARN  [Log] User is on home page 
+2019-04-08 11:58:52,924 INFO  [Log] Lunching the Url 
+2019-04-08 11:59:02,196 INFO  [Log] Lunching the Url 
+2019-04-08 12:01:40,045 INFO  [Log] Lunching the Url 
+2019-04-08 12:01:40,072 INFO  [Log] Verify the Title 
+2019-04-08 12:01:44,019 WARN  [Log] User is on home page 
+2019-04-08 12:01:44,272 INFO  [Log] Lunching the Url 
+2019-04-08 12:01:44,280 INFO  [Log] Verify the Title 
+2019-04-08 12:01:45,417 WARN  [Log] User is on home page 
+2019-04-08 12:01:50,159 INFO  [Log] Lunching the Url 
+2019-04-08 12:01:57,308 INFO  [Log] Lunching the Url 
+2019-04-08 12:10:56,832 INFO  [Log] Lunching the Url 
+2019-04-08 12:10:56,856 INFO  [Log] Verify the Title 
+2019-04-08 12:11:02,262 WARN  [Log] User is on home page 
+2019-04-08 12:11:02,509 INFO  [Log] Lunching the Url 
+2019-04-08 12:11:02,516 INFO  [Log] Verify the Title 
+2019-04-08 12:11:02,970 WARN  [Log] User is on home page 
+2019-04-08 12:11:07,206 INFO  [Log] Lunching the Url 
+2019-04-08 12:11:20,441 INFO  [Log] Lunching the Url 
+2019-04-08 13:08:25,210 INFO  [Log] Lunching the Url 
+2019-04-08 13:08:25,256 INFO  [Log] Verify the Title 
+2019-04-08 13:08:31,308 WARN  [Log] User is on home page 
+2019-04-08 13:08:34,344 INFO  [Log] Lunching the Url 
+2019-04-08 13:08:34,363 INFO  [Log] Verify the Title 
+2019-04-08 13:08:35,329 WARN  [Log] User is on home page 
+2019-04-08 13:08:45,663 INFO  [Log] Lunching the Url 
+2019-04-08 13:09:02,091 INFO  [Log] Lunching the Url 
+2019-04-08 16:12:40,137 INFO  [Log] Lunching the Url 
+2019-04-08 16:12:40,176 INFO  [Log] Verify the Title 
+2019-04-08 16:12:43,144 WARN  [Log] User is on home page 
+2019-04-08 16:12:43,266 INFO  [Log] Lunching the Url 
+2019-04-08 16:12:43,277 INFO  [Log] Verify the Title 
+2019-04-08 16:12:43,647 WARN  [Log] User is on home page 
+2019-04-08 16:29:03,806 INFO  [Log] Lunching the Url 
+2019-04-08 16:29:03,837 INFO  [Log] Verify the Title 
+2019-04-08 16:29:11,004 WARN  [Log] User is on home page 
+2019-04-08 16:29:15,292 INFO  [Log] Lunching the Url 
+2019-04-08 16:29:15,302 INFO  [Log] Verify the Title 
+2019-04-08 16:29:15,662 WARN  [Log] User is on home page 
+2019-04-08 16:29:25,996 INFO  [Log] Lunching the Url 
+2019-04-08 16:29:36,316 INFO  [Log] Lunching the Url 
+2019-04-08 16:32:41,702 INFO  [Log] Lunching the Url 
+2019-04-08 16:32:41,735 INFO  [Log] Verify the Title 
+2019-04-08 16:32:46,133 WARN  [Log] User is on home page 
+2019-04-08 16:32:46,258 INFO  [Log] Lunching the Url 
+2019-04-08 16:32:46,267 INFO  [Log] Verify the Title 
+2019-04-08 16:32:46,674 WARN  [Log] User is on home page 
+2019-04-08 16:32:50,630 INFO  [Log] Lunching the Url 
+2019-04-08 16:32:59,220 INFO  [Log] Lunching the Url 
+2019-04-08 16:50:25,187 INFO  [Log] Lunching the Url 
+2019-04-08 16:50:25,208 INFO  [Log] Verify the Title 
+2019-04-08 16:50:29,659 WARN  [Log] User is on home page 
+2019-04-08 16:50:29,824 INFO  [Log] Lunching the Url 
+2019-04-08 16:50:29,832 INFO  [Log] Verify the Title 
+2019-04-08 16:50:31,260 WARN  [Log] User is on home page 
+2019-04-08 16:50:35,429 INFO  [Log] Lunching the Url 
+2019-04-08 16:50:45,573 INFO  [Log] Lunching the Url 
+2019-04-08 18:08:25,714 INFO  [Log] Lunching the Url 
+2019-04-08 18:08:25,746 INFO  [Log] Verify the Title 
+2019-04-08 18:08:29,636 WARN  [Log] User is on home page 
+2019-04-08 18:08:29,771 INFO  [Log] Lunching the Url 
+2019-04-08 18:08:29,778 INFO  [Log] Verify the Title 
+2019-04-08 18:08:30,114 WARN  [Log] User is on home page 
+2019-04-08 18:08:38,598 INFO  [Log] Lunching the Url 
+2019-04-08 18:08:48,519 INFO  [Log] Lunching the Url 
+2019-04-08 18:20:43,182 INFO  [Log] Lunching the Url 
+2019-04-08 18:20:43,204 INFO  [Log] Verify the Title 
+2019-04-08 18:20:46,070 WARN  [Log] User is on home page 
+2019-04-08 18:20:46,185 INFO  [Log] Lunching the Url 
+2019-04-08 18:20:46,192 INFO  [Log] Verify the Title 
+2019-04-08 18:20:46,562 WARN  [Log] User is on home page 
+2019-04-08 18:20:58,849 INFO  [Log] Lunching the Url 
+2019-04-08 18:21:08,486 INFO  [Log] Lunching the Url 
+2019-04-08 18:25:04,249 INFO  [Log] Lunching the Url 
+2019-04-08 18:25:04,282 INFO  [Log] Verify the Title 
+2019-04-08 18:25:07,117 WARN  [Log] User is on home page 
+2019-04-08 18:25:07,232 INFO  [Log] Lunching the Url 
+2019-04-08 18:25:07,239 INFO  [Log] Verify the Title 
+2019-04-08 18:25:08,192 WARN  [Log] User is on home page 
+2019-04-08 18:25:12,155 INFO  [Log] Lunching the Url 
+2019-04-08 18:25:20,060 INFO  [Log] Lunching the Url 
+2019-04-09 10:12:22,385 INFO  [Log] Lunching the Url 
+2019-04-09 10:12:22,432 INFO  [Log] Verify the Title 
+2019-04-09 10:12:26,583 WARN  [Log] User is on home page 
+2019-04-09 10:12:26,720 INFO  [Log] Lunching the Url 
+2019-04-09 10:12:26,727 INFO  [Log] Verify the Title 
+2019-04-09 10:12:27,755 WARN  [Log] User is on home page 
+2019-04-09 10:12:31,898 INFO  [Log] Lunching the Url 
+2019-04-09 10:12:46,126 INFO  [Log] Lunching the Url 
+2019-04-09 14:34:01,937 INFO  [Log] Lunching the Url 
+2019-04-09 14:34:01,980 INFO  [Log] Verify the Title 
+2019-04-09 14:34:38,512 WARN  [Log] User is on home page 
+2019-04-09 14:34:41,107 INFO  [Log] Lunching the Url 
+2019-04-09 14:34:41,116 INFO  [Log] Verify the Title 
+2019-04-09 14:34:46,154 WARN  [Log] User is on home page 
+2019-04-09 14:35:00,589 INFO  [Log] Lunching the Url 
+2019-04-09 14:36:00,871 INFO  [Log] Lunching the Url 
+2019-04-10 09:33:20,261 INFO  [Log] Lunching the Url 
+2019-04-10 09:33:20,283 INFO  [Log] Verify the Title 
+2019-04-10 09:33:23,230 WARN  [Log] User is on home page 
+2019-04-10 09:33:26,236 INFO  [Log] Lunching the Url 
+2019-04-10 09:33:26,246 INFO  [Log] Verify the Title 
+2019-04-10 09:33:26,646 WARN  [Log] User is on home page 
+2019-04-10 09:33:30,662 INFO  [Log] Lunching the Url 
+2019-04-10 09:33:40,120 INFO  [Log] Lunching the Url 
+2019-04-10 09:35:32,706 INFO  [Log] Lunching the Url 
+2019-04-10 09:35:32,737 INFO  [Log] Verify the Title 
+2019-04-10 09:35:36,705 WARN  [Log] User is on home page 
+2019-04-10 09:35:36,826 INFO  [Log] Lunching the Url 
+2019-04-10 09:35:36,834 INFO  [Log] Verify the Title 
+2019-04-10 09:35:37,187 WARN  [Log] User is on home page 
+2019-04-10 09:35:41,143 INFO  [Log] Lunching the Url 
+2019-04-10 09:35:50,973 INFO  [Log] Lunching the Url 
+2019-04-10 10:30:45,915 INFO  [Log] Lunching the Url 
+2019-04-10 10:30:45,949 INFO  [Log] Verify the Title 
+2019-04-10 10:30:55,531 WARN  [Log] User is on home page 
+2019-04-10 10:30:56,338 INFO  [Log] Lunching the Url 
+2019-04-10 10:30:56,350 INFO  [Log] Verify the Title 
+2019-04-10 10:30:57,838 WARN  [Log] User is on home page 
+2019-04-10 10:31:10,014 INFO  [Log] Lunching the Url 
+2019-04-10 10:31:27,670 INFO  [Log] Lunching the Url 
+2019-04-10 10:40:48,930 INFO  [Log] Lunching the Url 
+2019-04-10 10:40:48,964 INFO  [Log] Verify the Title 
+2019-04-10 10:40:55,635 WARN  [Log] User is on home page 
+2019-04-10 10:40:58,885 INFO  [Log] Lunching the Url 
+2019-04-10 10:40:58,900 INFO  [Log] Verify the Title 
+2019-04-10 10:41:00,059 WARN  [Log] User is on home page 
+2019-04-10 10:45:25,719 INFO  [Log] Lunching the Url 
+2019-04-10 10:45:25,752 INFO  [Log] Verify the Title 
+2019-04-10 10:45:30,591 WARN  [Log] User is on home page 
+2019-04-10 10:45:30,824 INFO  [Log] Lunching the Url 
+2019-04-10 10:45:30,830 INFO  [Log] Verify the Title 
+2019-04-10 10:45:31,459 WARN  [Log] User is on home page 
+2019-04-10 12:10:36,427 INFO  [Log] Lunching the Url 
+2019-04-10 12:10:36,471 INFO  [Log] Verify the Title 
+2019-04-10 12:10:41,330 WARN  [Log] User is on home page 
+2019-04-10 12:10:41,460 INFO  [Log] Lunching the Url 
+2019-04-10 12:10:41,467 INFO  [Log] Verify the Title 
+2019-04-10 12:10:41,856 WARN  [Log] User is on home page 
+2019-04-10 12:11:01,396 INFO  [Log] Lunching the Url 
+2019-04-10 12:11:23,009 INFO  [Log] Lunching the Url 
+2019-04-10 12:14:50,277 INFO  [Log] Lunching the Url 
+2019-04-10 12:14:50,313 INFO  [Log] Verify the Title 
+2019-04-10 12:14:53,415 WARN  [Log] User is on home page 
+2019-04-10 12:14:53,584 INFO  [Log] Lunching the Url 
+2019-04-10 12:14:53,594 INFO  [Log] Verify the Title 
+2019-04-10 12:14:54,041 WARN  [Log] User is on home page 
+2019-04-10 12:14:58,518 INFO  [Log] Lunching the Url 
+2019-04-10 12:15:09,381 INFO  [Log] Lunching the Url 
+2019-04-10 12:37:02,026 INFO  [Log] Lunching the Url 
+2019-04-10 12:37:02,052 INFO  [Log] Verify the Title 
+2019-04-10 12:37:04,794 WARN  [Log] User is on home page 
+2019-04-10 12:37:04,921 INFO  [Log] Lunching the Url 
+2019-04-10 12:37:04,927 INFO  [Log] Verify the Title 
+2019-04-10 12:37:05,279 WARN  [Log] User is on home page 
+2019-04-10 12:37:09,573 INFO  [Log] Lunching the Url 
+2019-04-10 12:37:20,624 INFO  [Log] Lunching the Url 
+2019-04-10 17:06:48,622 INFO  [Log] Lunching the Url 
+2019-04-10 17:06:48,655 INFO  [Log] Verify the Title 
+2019-04-10 17:06:51,878 WARN  [Log] User is on home page 
+2019-04-10 17:06:52,076 INFO  [Log] Lunching the Url 
+2019-04-10 17:06:52,087 INFO  [Log] Verify the Title 
+2019-04-10 17:06:52,438 WARN  [Log] User is on home page 
+2019-04-10 17:07:39,493 INFO  [Log] Lunching the Url 
+2019-04-10 17:07:39,517 INFO  [Log] Verify the Title 
+2019-04-10 17:07:42,675 WARN  [Log] User is on home page 
+2019-04-10 17:07:42,974 INFO  [Log] Lunching the Url 
+2019-04-10 17:07:42,981 INFO  [Log] Verify the Title 
+2019-04-10 17:07:43,425 WARN  [Log] User is on home page 
+2019-04-12 09:13:21,097 INFO  [Log] Lunching the Url 
+2019-04-12 09:13:21,183 INFO  [Log] Verify the Title 
+2019-04-12 09:13:24,824 WARN  [Log] User is on home page 
+2019-04-12 09:13:24,950 INFO  [Log] Lunching the Url 
+2019-04-12 09:13:24,955 INFO  [Log] Verify the Title 
+2019-04-12 09:13:28,097 WARN  [Log] User is on home page 
+2019-04-12 09:13:32,066 INFO  [Log] Lunching the Url 
+2019-04-12 09:13:42,304 INFO  [Log] Lunching the Url 
+2019-04-12 09:14:37,914 INFO  [Log] Lunching the Url 
+2019-04-12 09:14:37,940 INFO  [Log] Verify the Title 
+2019-04-12 09:14:42,302 WARN  [Log] User is on home page 
+2019-04-12 09:14:42,427 INFO  [Log] Lunching the Url 
+2019-04-12 09:14:42,433 INFO  [Log] Verify the Title 
+2019-04-12 09:14:42,799 WARN  [Log] User is on home page 
+2019-04-12 09:14:47,095 INFO  [Log] Lunching the Url 
+2019-04-12 09:14:54,142 INFO  [Log] Lunching the Url 
+2019-04-12 16:58:51,405 INFO  [Log] Lunching the Url 
+2019-04-12 16:58:51,430 INFO  [Log] Verify the Title 
+2019-04-12 16:58:58,174 WARN  [Log] User is on home page 
+2019-04-12 16:59:04,376 INFO  [Log] Lunching the Url 
+2019-04-12 16:59:04,398 INFO  [Log] Verify the Title 
+2019-04-12 16:59:05,293 WARN  [Log] User is on home page 
+2019-04-12 16:59:24,436 INFO  [Log] Lunching the Url 
+2019-04-12 16:59:40,400 INFO  [Log] Lunching the Url 
+2019-04-12 17:04:54,049 INFO  [Log] Lunching the Url 
+2019-04-12 17:04:54,074 INFO  [Log] Verify the Title 
+2019-04-12 17:05:02,802 WARN  [Log] User is on home page 
+2019-04-12 17:05:05,407 INFO  [Log] Lunching the Url 
+2019-04-12 17:05:05,421 INFO  [Log] Verify the Title 
+2019-04-12 17:05:05,805 WARN  [Log] User is on home page 
+2019-04-12 17:05:25,260 INFO  [Log] Lunching the Url 
+2019-04-12 17:05:42,456 INFO  [Log] Lunching the Url 
+2019-04-15 12:51:46,358 INFO  [Log] Lunching the Url 
+2019-04-15 12:51:46,374 INFO  [Log] Verify the Title 
+2019-04-15 12:51:49,478 WARN  [Log] User is on home page 
+2019-04-15 12:51:49,483 INFO  [Log] Lunching the Url 
+2019-04-15 12:52:28,175 INFO  [Log] Verify the Title 
+2019-04-15 12:52:31,322 WARN  [Log] User is on home page 
+2019-04-15 12:53:34,427 INFO  [Log] Lunching the Url 
+2019-04-15 12:53:34,454 INFO  [Log] Verify the Title 
+2019-04-15 12:53:37,452 WARN  [Log] User is on home page 
+2019-04-15 12:53:37,558 INFO  [Log] Lunching the Url 
+2019-04-15 12:53:37,570 INFO  [Log] Verify the Title 
+2019-04-15 12:53:37,916 WARN  [Log] User is on home page 
+2019-04-15 14:21:54,662 INFO  [Log] Lunching the Url 
+2019-04-15 14:21:54,685 INFO  [Log] Verify the Title 
+2019-04-15 14:21:57,631 WARN  [Log] User is on home page 
+2019-04-15 14:21:57,762 INFO  [Log] Lunching the Url 
+2019-04-15 14:21:57,772 INFO  [Log] Verify the Title 
+2019-04-15 14:21:58,151 WARN  [Log] User is on home page 
+2019-04-15 14:25:01,401 INFO  [Log] Lunching the Url 
+2019-04-15 14:25:01,424 INFO  [Log] Verify the Title 
+2019-04-15 14:25:06,833 WARN  [Log] User is on home page 
+2019-04-15 14:25:09,839 INFO  [Log] Lunching the Url 
+2019-04-15 14:25:09,846 INFO  [Log] Verify the Title 
+2019-04-15 14:25:10,196 WARN  [Log] User is on home page 
+2019-04-15 14:44:55,104 INFO  [Log] Lunching the Url 
+2019-04-15 14:44:55,136 INFO  [Log] Verify the Title 
+2019-04-15 14:45:04,688 WARN  [Log] User is on home page 
+2019-04-15 14:45:07,680 INFO  [Log] Lunching the Url 
+2019-04-15 14:45:07,690 INFO  [Log] Verify the Title 
+2019-04-15 14:45:08,076 WARN  [Log] User is on home page 
+2019-04-15 14:45:39,774 INFO  [Log] Lunching the Url 
+2019-04-15 14:45:39,799 INFO  [Log] Verify the Title 
+2019-04-15 14:45:42,870 WARN  [Log] User is on home page 
+2019-04-15 14:45:43,026 INFO  [Log] Lunching the Url 
+2019-04-15 14:45:43,036 INFO  [Log] Verify the Title 
+2019-04-15 14:45:43,491 WARN  [Log] User is on home page 
+2019-04-15 14:46:01,245 INFO  [Log] Lunching the Url 
+2019-04-15 14:55:13,091 INFO  [Log] Lunching the Url 
+2019-04-15 14:55:13,122 INFO  [Log] Verify the Title 
+2019-04-15 14:55:21,479 WARN  [Log] User is on home page 
+2019-04-15 14:55:21,607 INFO  [Log] Lunching the Url 
+2019-04-15 14:55:21,619 INFO  [Log] Verify the Title 
+2019-04-15 14:55:21,710 WARN  [Log] User is on home page 
+2019-04-15 14:58:18,913 INFO  [Log] Lunching the Url 
+2019-04-15 14:58:18,938 INFO  [Log] Verify the Title 
+2019-04-15 14:58:22,164 WARN  [Log] User is on home page 
+2019-04-15 14:58:22,280 INFO  [Log] Lunching the Url 
+2019-04-15 14:58:22,287 INFO  [Log] Verify the Title 
+2019-04-15 14:58:22,386 WARN  [Log] User is on home page 
+2019-04-15 15:02:06,386 INFO  [Log] Lunching the Url 
+2019-04-15 15:02:06,410 INFO  [Log] Verify the Title 
+2019-04-15 15:02:09,251 WARN  [Log] User is on home page 
+2019-04-15 15:02:09,364 INFO  [Log] Lunching the Url 
+2019-04-15 15:02:09,373 INFO  [Log] Verify the Title 
+2019-04-15 15:02:09,499 WARN  [Log] User is on home page 
+2019-04-15 15:11:04,572 INFO  [Log] Lunching the Url 
+2019-04-15 15:11:04,600 INFO  [Log] Verify the Title 
+2019-04-15 15:11:07,421 WARN  [Log] User is on home page 
+2019-04-15 15:11:07,552 INFO  [Log] Lunching the Url 
+2019-04-15 15:11:07,563 INFO  [Log] Verify the Title 
+2019-04-15 15:11:07,670 WARN  [Log] User is on home page 
+2019-04-15 15:12:08,119 INFO  [Log] Lunching the Url 
+2019-04-15 15:12:08,141 INFO  [Log] Verify the Title 
+2019-04-15 15:12:11,107 WARN  [Log] User is on home page 
+2019-04-15 15:12:11,210 INFO  [Log] Lunching the Url 
+2019-04-15 15:12:11,224 INFO  [Log] Verify the Title 
+2019-04-15 15:12:11,340 WARN  [Log] User is on home page 
+2019-04-15 15:13:34,933 INFO  [Log] Lunching the Url 
+2019-04-15 15:13:34,966 INFO  [Log] Verify the Title 
+2019-04-15 15:13:41,967 WARN  [Log] User is on home page 
+2019-04-15 15:13:42,073 INFO  [Log] Lunching the Url 
+2019-04-15 15:13:42,083 INFO  [Log] Verify the Title 
+2019-04-15 15:13:42,172 WARN  [Log] User is on home page 
+2019-04-15 15:14:16,929 INFO  [Log] Lunching the Url 
+2019-04-15 15:14:24,535 INFO  [Log] Lunching the Url 
+2019-04-15 15:18:50,352 INFO  [Log] Lunching the Url 
+2019-04-15 15:18:50,378 INFO  [Log] Verify the Title 
+2019-04-15 15:18:54,103 WARN  [Log] User is on home page 
+2019-04-15 15:18:54,234 INFO  [Log] Lunching the Url 
+2019-04-15 15:18:54,243 INFO  [Log] Verify the Title 
+2019-04-15 15:18:54,608 WARN  [Log] User is on home page 
+2019-04-15 15:18:59,202 INFO  [Log] Lunching the Url 
+2019-04-15 15:19:08,855 INFO  [Log] Lunching the Url 
+2019-04-15 15:20:32,577 INFO  [Log] Lunching the Url 
+2019-04-15 15:20:32,603 INFO  [Log] Verify the Title 
+2019-04-15 15:20:35,936 WARN  [Log] User is on home page 
+2019-04-15 15:20:36,106 INFO  [Log] Lunching the Url 
+2019-04-15 15:20:36,116 INFO  [Log] Verify the Title 
+2019-04-15 15:20:40,414 WARN  [Log] User is on home page 
+2019-04-15 15:20:45,973 INFO  [Log] Lunching the Url 
+2019-04-15 15:20:55,194 INFO  [Log] Lunching the Url 
+2019-04-15 15:32:48,565 INFO  [Log] Lunching the Url 
+2019-04-15 15:32:48,593 INFO  [Log] Verify the Title 
+2019-04-15 15:32:53,059 WARN  [Log] User is on home page 
+2019-04-15 15:32:56,707 INFO  [Log] Lunching the Url 
+2019-04-15 15:32:56,716 INFO  [Log] Verify the Title 
+2019-04-15 15:32:57,126 WARN  [Log] User is on home page 
+2019-04-15 15:33:02,080 INFO  [Log] Lunching the Url 
+2019-04-15 15:33:10,080 INFO  [Log] Lunching the Url 
+2019-04-15 15:35:06,775 INFO  [Log] Lunching the Url 
+2019-04-15 15:35:06,802 INFO  [Log] Verify the Title 
+2019-04-15 15:35:09,839 WARN  [Log] User is on home page 
+2019-04-15 15:35:09,998 INFO  [Log] Lunching the Url 
+2019-04-15 15:35:10,006 INFO  [Log] Verify the Title 
+2019-04-15 15:35:10,126 WARN  [Log] User is on home page 
+2019-04-15 15:35:45,128 INFO  [Log] Lunching the Url 
+2019-04-15 15:35:52,885 INFO  [Log] Lunching the Url 
+2019-04-15 15:51:39,457 INFO  [Log] Lunching the Url 
+2019-04-15 15:51:39,479 INFO  [Log] Verify the Title 
+2019-04-15 15:51:45,418 WARN  [Log] User is on home page 
+2019-04-15 15:51:46,299 INFO  [Log] Lunching the Url 
+2019-04-15 15:51:46,304 INFO  [Log] Verify the Title 
+2019-04-15 15:51:46,405 WARN  [Log] User is on home page 
+2019-04-15 15:52:25,391 INFO  [Log] Lunching the Url 
+2019-04-15 15:52:36,890 INFO  [Log] Lunching the Url 
+2019-04-15 18:07:23,602 INFO  [Log] Lunching the Url 
+2019-04-15 18:07:23,645 INFO  [Log] Verify the Title 
+2019-04-15 18:07:26,500 WARN  [Log] User is on home page 
+2019-04-15 18:07:29,422 INFO  [Log] Lunching the Url 
+2019-04-15 18:07:29,434 INFO  [Log] Verify the Title 
+2019-04-15 18:07:29,862 WARN  [Log] User is on home page 
+2019-04-15 18:07:35,760 INFO  [Log] Lunching the Url 
+2019-04-15 18:07:45,237 INFO  [Log] Lunching the Url 
+2019-04-15 18:45:55,669 INFO  [Log] Lunching the Url 
+2019-04-15 18:45:55,689 INFO  [Log] Verify the Title 
+2019-04-15 18:46:00,471 WARN  [Log] User is on home page 
+2019-04-15 18:46:00,589 INFO  [Log] Lunching the Url 
+2019-04-15 18:46:00,598 INFO  [Log] Verify the Title 
+2019-04-15 18:46:01,010 WARN  [Log] User is on home page 
+2019-04-15 18:46:05,699 INFO  [Log] Lunching the Url 
+2019-04-15 18:46:13,389 INFO  [Log] Lunching the Url 
+2019-04-16 09:24:59,708 INFO  [Log] Lunching the Url 
+2019-04-16 09:24:59,737 INFO  [Log] Verify the Title 
+2019-04-16 09:25:02,685 WARN  [Log] User is on home page 
+2019-04-16 09:25:02,778 INFO  [Log] Lunching the Url 
+2019-04-16 09:25:02,786 INFO  [Log] Verify the Title 
+2019-04-16 09:25:03,145 WARN  [Log] User is on home page 
+2019-04-16 09:25:07,641 INFO  [Log] Lunching the Url 
+2019-04-16 09:25:14,989 INFO  [Log] Lunching the Url 
+2019-04-16 10:07:40,860 INFO  [Log] Lunching the Url 
+2019-04-16 10:08:53,585 INFO  [Log] Lunching the Url 
+2019-04-16 10:08:53,609 INFO  [Log] Verify the Title 
+2019-04-16 10:08:56,647 WARN  [Log] User is on home page 
+2019-04-16 10:08:56,791 INFO  [Log] Lunching the Url 
+2019-04-16 10:08:56,802 INFO  [Log] Verify the Title 
+2019-04-16 10:08:57,201 WARN  [Log] User is on home page 
+2019-04-16 12:44:02,349 INFO  [Log] Lunching the Url 
+2019-04-16 12:44:02,378 INFO  [Log] Verify the Title 
+2019-04-16 12:44:05,938 WARN  [Log] User is on home page 
+2019-04-16 12:44:06,056 INFO  [Log] Lunching the Url 
+2019-04-16 12:44:06,065 INFO  [Log] Verify the Title 
+2019-04-16 12:44:06,494 WARN  [Log] User is on home page 
