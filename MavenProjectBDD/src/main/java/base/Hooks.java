@@ -23,11 +23,11 @@ public class Hooks {
 	@Before
 	public WebDriver beforeSetup() {
 		if(driver==null) {
-	System.setProperty("webdriver.chrome.driver","D:\\Users\\Temp\\git\\TestGit\\MavenProjectBDD\\driver\\chromedriver.exe");
+	System.setProperty("webdriver.chrome.driver","D:\\TestGit\\BDD\\MavenProjectBDD\\driver\\chromedriver.exe");
 	driver = new ChromeDriver();
 	driver.manage().timeouts().implicitlyWait(30,TimeUnit.SECONDS);
 	driver.manage().window().maximize();
-	DOMConfigurator.configure("D:\\Users\\Temp\\git\\TestGit\\MavenProjectBDD\\Config\\log4j.xml");
+	DOMConfigurator.configure("D:\\TestGit\\BDD\\MavenProjectBDD\\Config\\log4j.xml");
 			}
 		return driver;
 	}

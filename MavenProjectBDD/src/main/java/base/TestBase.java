@@ -13,7 +13,7 @@ public class TestBase {
 	
 	public void beforeSetup() {
 		//if(driver==null) {
-	System.setProperty("webdriver.chrome.driver","D:\\Users\\Temp\\git\\TestGit\\MavenProjectBDD\\driver\\chromedriver.exe");
+	System.setProperty("webdriver.chrome.driver","D:\\TestGit\\BDD\\MavenProjectBDD\\driver\\chromedriver.exe");
 	driver = new ChromeDriver();
 	driver.manage().timeouts().implicitlyWait(30,TimeUnit.SECONDS);
 	driver.get("http://selenium4testing.com/hms/");

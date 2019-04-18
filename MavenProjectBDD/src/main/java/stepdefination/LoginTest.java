@@ -19,14 +19,14 @@ import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
 import utility.Log;
+import utility.WebPage;
 
-public class LoginTest {
-	 WebDriver driver;
+public class LoginTest extends WebPage{
 	
 
-	public LoginTest(Hooks hook) {
-		driver=hook.beforeSetup();
-		
+	public LoginTest(WebDriver driver,String pageName) {
+		//driver=hook.beforeSetup();
+		super(driver,pageName);
 		
 			}
 	
@@ -47,6 +47,7 @@ public class LoginTest {
 	@Then("^user enters username and password$")
 	public void user_enters_username_and_password(DataTable credentials) {
 		for (Map<String, String> data : credentials.asMaps(String.class, String.class)) {
+			
 			driver.findElement(By.name("username")).sendKeys(data.get("username"));
 			driver.findElement(By.name("password")).sendKeys(data.get("password"));
 			
