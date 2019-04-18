@@ -31,6 +31,7 @@ import cucumber.api.testng.TestNGCucumberRunner;
 	    @Test(groups = "cucumber", description = "Runs Cucumber Feature", dataProvider = "features")
 	    public void feature(CucumberFeatureWrapper cucumberFeature) {
 	        testNGCucumberRunner.runCucumber(cucumberFeature.getCucumberFeature());
+	        System.out.println(cucumberFeature.getCucumberFeature());
 	    }
 	 
 	    @DataProvider
