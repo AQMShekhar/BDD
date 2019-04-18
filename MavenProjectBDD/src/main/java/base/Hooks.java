@@ -22,6 +22,7 @@ public class Hooks {
 		driver.manage().window().maximize();
 		DOMConfigurator.configure("D:\\BDD\\BDD\\MavenProjectBDD\\Config\\log4j.xml");
 		return driver;
+		
 	}
 
 	/*

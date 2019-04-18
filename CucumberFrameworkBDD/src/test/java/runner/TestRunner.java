@@ -15,8 +15,7 @@ import cucumber.api.testng.TestNGCucumberRunner;
 
 
 	@CucumberOptions(
-	        features = ("D:\\CucumberBDD\\CucumberFrameworkBDD\\src\\test\\resources\\featureFiles\\Login.feature"),
-	        glue = {"stepDefination"},
+			features = ("D:\\BDD\\BDD\\CucumberFrameworkBDD\\src\\test\\resources\\featureFiles"),
 	        tags = {"@Important"},
 	       plugin = {"pretty","html:target/cucumber-reports/report.html", 
 	    		   "com.cucumber.listener.ExtentCucumberFormatter:target/cucumber-reports/Extentreport.html",
@@ -45,7 +44,7 @@ import cucumber.api.testng.TestNGCucumberRunner;
 	 
 	    @AfterClass(alwaysRun = true)
 	    public void tearDownClass() throws Exception {
-	    Reporter.loadXMLConfig(new File("D:\\CucumberBDD\\CucumberFrameworkBDD\\Config\\extent-config.xml"));
+	    Reporter.loadXMLConfig(new File("D:\\BDD\\BDD\\CucumberFrameworkBDD\\Config\\extent-config.xml"));
 	    Reporter.setSystemInfo("User Name", System.getProperty("user.name"));
 	    Reporter.setSystemInfo("Time Zone", System.getProperty("user.timezone"));
 	    Reporter.setSystemInfo("Machine", "Windows 10, " + "64 Bit");

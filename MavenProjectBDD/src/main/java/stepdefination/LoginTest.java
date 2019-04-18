@@ -15,6 +15,7 @@ import base.Hooks;
 import cucumber.api.DataTable;
 import cucumber.api.Scenario;
 import cucumber.api.java.After;
+import cucumber.api.java.Before;
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
@@ -23,7 +24,6 @@ import utility.Log;
 public class LoginTest {
 	 WebDriver driver;
 	
-
 	public LoginTest(Hooks hook) {
 		driver=hook.beforeSetup();
 		

@@ -590,3 +590,15 @@
 2019-04-16 12:44:06,056 INFO  [Log] Lunching the Url 
 2019-04-16 12:44:06,065 INFO  [Log] Verify the Title 
 2019-04-16 12:44:06,494 WARN  [Log] User is on home page 
+2019-04-17 15:44:15,864 INFO  [Log] Lunching the Url 
+2019-04-17 15:44:15,887 INFO  [Log] Verify the Title 
+2019-04-17 15:44:21,881 WARN  [Log] User is on home page 
+2019-04-17 15:44:29,090 INFO  [Log] Lunching the Url 
+2019-04-17 15:44:29,109 INFO  [Log] Verify the Title 
+2019-04-17 15:44:37,622 WARN  [Log] User is on home page 
+2019-04-17 16:00:28,631 INFO  [Log] Lunching the Url 
+2019-04-17 16:00:28,661 INFO  [Log] Verify the Title 
+2019-04-17 16:00:30,476 WARN  [Log] User is on home page 
+2019-04-17 16:02:52,796 INFO  [Log] Lunching the Url 
+2019-04-17 16:02:52,823 INFO  [Log] Verify the Title 
+2019-04-17 16:02:53,950 WARN  [Log] User is on home page 
