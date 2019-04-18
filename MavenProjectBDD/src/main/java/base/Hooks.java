@@ -1,35 +1,29 @@
 package base;
-import java.io.File;
-import java.io.IOException;
 import java.util.concurrent.TimeUnit;
 
 import org.apache.log4j.xml.DOMConfigurator;
-import org.codehaus.plexus.util.FileUtils;
-import org.openqa.selenium.OutputType;
-import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
+import org.testng.annotations.Parameters;
 
-import com.cucumber.listener.Reporter;
-
-import cucumber.api.Scenario;
-import cucumber.api.java.After;
 import cucumber.api.java.Before;
 
 
 
 public class Hooks {
- public WebDriver driver;
+	public WebDriver driver;
+
 	@Before
 	public WebDriver beforeSetup() {
-		if(driver==null) {
-	System.setProperty("webdriver.chrome.driver","D:\\TestGit\\BDD\\MavenProjectBDD\\driver\\chromedriver.exe");
-	driver = new ChromeDriver();
-	driver.manage().timeouts().implicitlyWait(30,TimeUnit.SECONDS);
-	driver.manage().window().maximize();
-	DOMConfigurator.configure("D:\\TestGit\\BDD\\MavenProjectBDD\\Config\\log4j.xml");
-			}
+		webdriverconfig obj = new webdriverconfig();
+		return obj.intilizeWebDriversetup();
+	}
+
+	public WebDriver setup(String browser) throws Exception {
+		driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
+		driver.manage().window().maximize();
+		DOMConfigurator.configure("D:\\BDD\\BDD\\MavenProjectBDD\\Config\\log4j.xml");
 		return driver;
+		
 	}
 	/*@After
 	 public WebDriver afterScenario(Scenario scenario) {
